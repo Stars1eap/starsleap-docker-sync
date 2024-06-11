@@ -1,2 +1,3 @@
 busybox
 nginx
+mysql
