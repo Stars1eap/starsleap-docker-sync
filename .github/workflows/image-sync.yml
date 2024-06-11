@@ -3,7 +3,6 @@ name: actions
 on: [push, pull_request]
 
 jobs:
-  sunny-front-test: ...
   sunny-front-release:
     if: ${{ github.ref == 'refs/heads/prod' || github.ref == 'refs/heads/docker' }}  # 1
     runs-on: ubuntu-latest
