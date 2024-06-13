@@ -1,2 +1,4 @@
 nginx
 busybox
+node:14
+nginx:alpine
