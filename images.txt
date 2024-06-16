@@ -1,3 +1,4 @@
 nginx
 busybox
-docker-registry-web
+registry
+hyper/docker-registry-web
