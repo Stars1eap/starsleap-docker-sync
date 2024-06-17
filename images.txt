@@ -1,4 +1,2 @@
 nginx
 busybox
-registry
-docker-registry-browser
