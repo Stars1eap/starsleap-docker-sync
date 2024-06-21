@@ -1,4 +1,4 @@
 nginx
 busybox
 centos:7.9.2009
-hello-docker
+hello-world
