@@ -2,3 +2,4 @@ nginx
 busybox
 centos:7.9.2009
 hello-world
+portainer/portainer-ce
