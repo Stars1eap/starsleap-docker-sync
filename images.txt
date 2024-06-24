@@ -1,7 +1,6 @@
 nginx
 busybox
 centos:7.9.2009
-hello-world
-portainer/portainer-ce
 httpd
 mysql
+quay.io/coreos/flannel:v0.13.0
