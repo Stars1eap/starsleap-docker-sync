@@ -9,3 +9,4 @@ docker.io/calico/node:master
 docker.io/calico/kube-controllers:master
 quay.io/metallb/controller:v0.14.5
 quay.io/metallb/speaker:v0.14.5
+registry.k8s.io/ingress-nginx/controller:v1.10.0@sha256:42b3f0e5d0846876b1791cd3afeb5f1cbbe4259d6f35651dcc1b5c980925379c
