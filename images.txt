@@ -7,3 +7,5 @@ quay.io/coreos/flannel:v0.13.0
 docker.io/calico/cni:master
 docker.io/calico/node:master
 docker.io/calico/kube-controllers:master
+quay.io/metallb/controller:v0.14.5
+quay.io/metallb/speaker:v0.14.5
