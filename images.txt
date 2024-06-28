@@ -1,1 +1,1 @@
-registry:2
+mysql:5.7
