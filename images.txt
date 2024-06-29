@@ -1,2 +1,2 @@
-nginx:1.24
-nginx:1.25
+nginx:1.24.1
+nginx:1.26.1
