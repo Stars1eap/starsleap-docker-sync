@@ -1,1 +1,1 @@
-fedora-virt:v1.0
+fedora
