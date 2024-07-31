@@ -1,3 +1,1 @@
-nginx:latest
-wordpress:latest
-mysql:5.7
+amazonlinux:2
