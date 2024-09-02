@@ -1,1 +1,1 @@
-sqshq/piggymetrics-config
+portainer
