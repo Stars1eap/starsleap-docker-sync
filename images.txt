@@ -1,1 +1,1 @@
-chartmuseum/chartmuseum:latest
+mysql:8.0
