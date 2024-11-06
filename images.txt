@@ -1,1 +1,1 @@
-qwenllm/qwenvl
+mariadb:7.3.14
