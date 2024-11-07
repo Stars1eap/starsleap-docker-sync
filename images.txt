@@ -1,1 +1,1 @@
-mariadb/manifests/10.3.22-debian-10-r27
+mariadb:10.3.22-debian-10-r27
