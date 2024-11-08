@@ -1,1 +1,2 @@
-mariadb:10.3.22-debian-10-r27
+centos:7.9.2009
+centos:centos7.9.2009
