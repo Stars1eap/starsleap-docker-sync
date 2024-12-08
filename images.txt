@@ -1,2 +1,2 @@
-prom/prometheus:v2.34.0
-grafana/grafana:9.1.7
+prom/prometheus:latest
+grafana/grafana:latest
