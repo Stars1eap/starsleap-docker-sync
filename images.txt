@@ -1,2 +1,3 @@
-prom/prometheus:latest
-grafana/grafana:latest
+zabbix/zabbix-server-mysql:latest
+zabbix/zabbix-web-nginx-mysql:latest
+mysql:5.7
