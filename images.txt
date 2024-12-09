@@ -1,5 +1,2 @@
-busybox:1.28
-mysql:8.0
-zabbix/zabbix-server-mysql:6.0-ubuntu-latest
-zabbix/zabbix-web-nginx-mysql:6.0-ubuntu-latest
-zabbix/zabbix-agent:6.0-ubuntu-latest
+zabbix/zabbix-server-mysql:6.2.6-centos
+zabbix/zabbix-web-nginx-mysql:6.2.6-centos
