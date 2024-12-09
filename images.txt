@@ -1,3 +1,2 @@
-zabbix/zabbix-web:6.4
-zabbix/zabbix-server:6.4
-mysql:8
+zabbix/zabbix-server-mysql:alpine-6.4
+zabbix/zabbix-web-nginx-mysql:alpine-6.4
