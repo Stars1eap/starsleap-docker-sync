@@ -1,2 +1,1 @@
-zabbix/zabbix-server-mysql:alpine-5.0-latest
-zabbix/zabbix-web-nginx-mysql:alpine-5.0-latest
+nginx:1.19
