@@ -1,1 +1,1 @@
-steamcmd
+cm2network/steamcmd
