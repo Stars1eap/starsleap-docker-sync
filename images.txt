@@ -1,1 +1,1 @@
-cm2network/steamcmd
+pepecitron/projectzomboid-server
