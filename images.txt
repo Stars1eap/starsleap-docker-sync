@@ -1,1 +1,4 @@
-pepecitron/projectzomboid-server
+nginx:1.19
+tomcat:9.0
+busybox
+mysql:5.7
