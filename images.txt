@@ -1,1 +1,3 @@
-ryshe/terraria:latest
+php:7.4-fpm
+nginx:stable
+mysql:5.7
