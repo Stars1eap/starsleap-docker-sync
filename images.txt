@@ -1,1 +1,1 @@
-apine:nginx1.18.0
+php:8.1-apache
