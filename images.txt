@@ -1,1 +1,1 @@
-node:18-alpine
+kubeedge/cloudcore:v1.17.0
