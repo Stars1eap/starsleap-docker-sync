@@ -1,1 +1,1 @@
-kubeedge/pause:3.6
+kubeedge/cloudcore:v1.17.0
