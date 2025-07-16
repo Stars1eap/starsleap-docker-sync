@@ -1,1 +1,1 @@
-kubeedge/cloudcore:v1.17.0
+eclipse-mosquitto:1.6.15
