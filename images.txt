@@ -1,2 +1,1 @@
-eclipse-mosquitto:2.0.15
-python:3.9-slim
+python-paho:3.9
