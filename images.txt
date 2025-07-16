@@ -1,1 +1,1 @@
-python-paho:3.9
+docker.gitea.com/gitea:1.24.2-rootless
