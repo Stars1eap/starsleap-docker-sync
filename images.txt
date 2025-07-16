@@ -1,1 +1,2 @@
 docker.gitea.com/gitea:1.24.3
+louislam/uptime-kuma:1
