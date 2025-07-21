@@ -1,1 +1,1 @@
-rancher/rancher:stable
+prom/prometheus
