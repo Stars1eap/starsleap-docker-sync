@@ -1,1 +1,1 @@
-node:18-alpine
+rancher/rancher-webhook:v0.7.3
