@@ -1,1 +1,1 @@
-gitea/act_runner:nightly
+moby/buildkit:buildx-stable-1
