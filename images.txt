@@ -1,3 +1,4 @@
 prom/prometheus:v2.33.5
 prom/node-exporter:v1.8.0
 grafana/grafana:8.4.5
+google/cadvisor:latest
