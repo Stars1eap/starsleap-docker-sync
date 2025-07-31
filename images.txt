@@ -1,2 +1,2 @@
 jenkins/jenkins:2.516.1-lts
-jenkins/inbound-agent
+jenkins/jenkins-agent
