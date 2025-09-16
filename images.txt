@@ -1,1 +1,1 @@
-wangwuli/wvp:2.7.1-2024110702
+mpromonet/webrtc-streamer
