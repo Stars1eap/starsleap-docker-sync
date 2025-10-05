@@ -1,1 +1,1 @@
-phusion/baseimage:latest
+phusion/baseimage
