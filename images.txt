@@ -1,1 +1,2 @@
-vulnerables/web-dvwa
+mysql:5.6
+daxia/websafe
