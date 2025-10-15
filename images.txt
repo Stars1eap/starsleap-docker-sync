@@ -1,1 +1,1 @@
-c0ny1/xss-challenge-tour
+vulhub/drupal:8.5.0
