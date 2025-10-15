@@ -1,1 +1,1 @@
-tanyiqu/bluelotus_xss_receiver
+c0ny1/xss-challenge-tour
