@@ -1,1 +1,1 @@
-vulhub/drupal:8.5.0
+c0ny1/upload-labs
