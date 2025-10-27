@@ -1,1 +1,2 @@
-php:5.5-apache
+docker.io/library/ubuntu:14.04
+docker.io/phusion/baseimage:latest
