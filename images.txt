@@ -1,2 +1,1 @@
-docker.io/library/ubuntu:14.04
-docker.io/phusion/baseimage:latest
+acgpiano/sqli-labs
