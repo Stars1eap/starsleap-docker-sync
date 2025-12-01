@@ -1,1 +1,2 @@
-python:3.11-slim
+redis:alpine
+postgres:17-alpine
