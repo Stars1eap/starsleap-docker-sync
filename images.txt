@@ -1,2 +1,1 @@
-redis:alpine
-postgres:17-alpine
+php:8.1-apache
