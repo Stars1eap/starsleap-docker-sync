@@ -1,3 +1,1 @@
-prom/node-exporter
-prom/prometheus
-grafana/grafana
+python:3.13-slim
