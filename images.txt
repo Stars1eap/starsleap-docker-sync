@@ -6,3 +6,4 @@ vulhub/goahead:5.1.4
 vulhub/weblogic:10.3.6.0-2017
 vulhub/nginx:1.13.2
 vulhub/drupal:8.5.0
+vulhub/baselinux:centos-6
