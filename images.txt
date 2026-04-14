@@ -1,1 +1,4 @@
-php:8.1-fpm
+redis:7-alpine
+python:3.12-slim
+node:20-alpine
+nginx:1.27-alpine
