@@ -1,1 +1,2 @@
 woodpeckerci/woodpecker-server:latest
+woodpeckerci/woodpecker-agent:latest
