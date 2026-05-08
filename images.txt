@@ -1,2 +1,2 @@
-woodpeckerci/woodpecker-server:v3-alpine
-woodpeckerci/woodpecker-agent:v3-alpine
+nginx
+busybox
