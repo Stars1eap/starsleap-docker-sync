@@ -1,1 +1,1 @@
-mediamtx:1.12.3
+bluenviron/mediamtx:1.12.3
