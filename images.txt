@@ -1,1 +1,1 @@
-codeberg.org/forgejo/forgejo:15
+nginx:1.23.0
