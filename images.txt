@@ -1,1 +1,1 @@
-rancher/mirrored-library-traefik:3.7.4
+rancher/mirrored-coredns-coredns:1.14.4
