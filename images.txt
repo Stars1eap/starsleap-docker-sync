@@ -1,1 +1,1 @@
-nginx:1.14.2
+rancher/klipper-helm:v0.11.1-build20260615
